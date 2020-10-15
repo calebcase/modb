@@ -1,3 +1,3 @@
-module github.com/calebcase/moda
+module github.com/calebcase/modb
 
 go 1.15
